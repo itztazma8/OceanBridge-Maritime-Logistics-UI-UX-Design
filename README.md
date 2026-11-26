@@ -4,7 +4,7 @@ A global maritime logistics and fleet management platform. Features vessel regis
 ## Project Overview
 OceanBridge aims to connect global shipping operations through a centralized platform where users can manage vessels, monitor voyages, track shipments, and oversee maritime logistics.
 
-This repository contains the frontend implementation of the OceanBridge platform.
+This repository contains the front-end implementation of the OceanBridge platform.
 
 ## Design Process
 *Initial Design*. First concept and layout exploration.
@@ -15,3 +15,8 @@ This repository contains the frontend implementation of the OceanBridge platform
 
 ## Tools
 Figma for UI/UX
+
+## Design Link
+Explore the complete OceanBridge UI/UX design in Figma.
+
+[Figma Design](https://www.figma.com/design/AktyDs3seM2T6advUy3Yjy/Ocean-Bridge_Front-End-Design?node-id=0-1)
